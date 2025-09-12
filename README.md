@@ -14,7 +14,7 @@ Afterwards, a simple and basic web page was created as a small project, which di
   - Arithmetic and booleans
   - Constants (define and const)
   - Arrays and associative arrays (Dictionaries)
-  - Loops
+  - Control Structures (loops, conditionals, etc)
   - Classes and objects
   - Regular expressions
   - Integration of PHP with HTML

@@ -27,7 +27,10 @@ Afterwards, a simple and basic web page was created as a small project, which di
 
 ## How to Run
 
-### 1. Practice Files
+- **Clone the repository**
+- **Install PHP** (if not already installed).
+
+### 1. First steps (Practice Files)
 
 You can run the practice files directly in your terminal:
 ```bash
@@ -38,17 +41,15 @@ php php_more_practice.php
 
 ### 2. Mini Web App
 
-1. **Clone the repository**
-2. **Install PHP** (if not already installed).
-3. **Set your TheCatAPI key:**
+1. **Set your TheCatAPI key:**
    - Edit `php-playground/simple_app/config/ApiConstants.php` and add your API key.
    - **Note:** If you do not set the API key, the app will still display random cat images, but breed information and other details will not be shown.
-4. **Start a local PHP server:**
+2. **Start a local PHP server:**
    ```bash
    cd php-playground/simple_app
    php -S localhost:8000
    ```
-5. Open [http://localhost:8000](http://localhost:8000) in your browser.
+3. Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ![App Screenshot](./page.png)
 

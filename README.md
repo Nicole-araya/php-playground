@@ -36,7 +36,7 @@ You can run the practice files directly in your terminal:
 ```bash
 cd php-playground/First_steps
 php php_basics.php
-php php_more_practice.php
+php -S localhost:8000 php_more_practice.php
 ```
 
 ### 2. Mini Web App

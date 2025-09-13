@@ -33,11 +33,21 @@ Afterwards, a simple and basic web page was created as a small project, which di
 ### 1. First steps (Practice Files)
 
 You can run the practice files directly in your terminal:
-```bash
-cd php-playground/First_steps
-php php_basics.php
-php -S localhost:8000 php_more_practice.php
-```
+
+  ```bash
+  cd php-playground/First_steps
+  ```
+  
+- To run `php_basics.php` and see the output in your console:
+  ```bash
+  php php_basics.php
+  ```
+
+- To run `php_more_practice.php`, start a local PHP server and view the results in your browser:
+  ```bash
+  php -S localhost:8000 php_more_practice.php
+  ```
+  Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ### 2. Mini Web App
 
